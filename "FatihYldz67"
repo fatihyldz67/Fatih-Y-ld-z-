@@ -1,0 +1,7 @@
+echo "FatihYldz67" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git branch -M main 
+git remote add Origin https://github.com/fatihyldz67 /Fatih-Y-ld-z-.git
+ git push -u Origin main
